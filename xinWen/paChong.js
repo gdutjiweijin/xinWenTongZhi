@@ -107,4 +107,4 @@ setInterval(function (){
                 dataBase(infoData.info)
             });
         });
-},1000);
+},60*60*1000);
